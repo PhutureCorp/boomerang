@@ -11,7 +11,7 @@
 	window.BOOMR.snippetVersion = 14;
 
 	// NOTE: Set Boomerang URL here
-	window.BOOMR.url = "";
+	window.BOOMR.url = "https://a-1238.localhost:3010/web.min.js";
 
 	var // document.currentScript is supported in all browsers other than IE
 	    where = document.currentScript || document.getElementsByTagName("script")[0],

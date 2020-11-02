@@ -84,7 +84,7 @@
  *
  * Finally, there may be cases when you want to completely disable the bandwidth test --
  * perhaps you know that your user is on a slow network, or pays by the byte (the
- * andwidth test uses a lot of bandwidth), or is on a mobile device that cannot
+ * bandwidth test uses a lot of bandwidth), or is on a mobile device that cannot
  * handle the load.
  *
  * In such cases you have two options:

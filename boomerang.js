@@ -3,6 +3,7 @@
  * @copyright (c) 2012, Log-Normal, Inc.  All rights reserved.
  * @copyright (c) 2012-2017, SOASTA, Inc. All rights reserved.
  * @copyright (c) 2017-2019, Akamai Technologies, Inc. All rights reserved.
+ * @copyright (c) 2020, FlowOn, Inc. All rights reserved.
  * Copyrights licensed under the BSD License. See the accompanying LICENSE.txt file for terms.
  */
 
@@ -383,7 +384,7 @@ BOOMR_check_doc_domain();
 	// Users can set properties by passing in to the init() method.
 	impl = {
 		// Beacon URL
-		beacon_url: "",
+		beacon_url: "http://localhost:3010/track",
 
 		// Forces protocol-relative URLs to HTTPS
 		beacon_url_force_https: true,
